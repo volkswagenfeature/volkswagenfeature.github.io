@@ -1,0 +1,5 @@
+{
+    "--title" : "node2nix",
+    "--builtin-classes" : true,
+    "--no-source" : true
+}
